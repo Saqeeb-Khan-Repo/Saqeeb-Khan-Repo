@@ -15,7 +15,7 @@ I believe in learning by building and improving one project at a time.
   <a href="https://github.com/Saqeeb-Khan-Repo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28"/>
   </a>
-  <a href="https://www.linkedin.com/in/saqeeb-khan" target="_blank">
+  <a href="https://www.linkedin.com/in/saqeebkhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28"/>
   </a>
 </p>
